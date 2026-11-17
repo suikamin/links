@@ -1,6 +1,0 @@
-theme: jekyll-theme-minimal
-title: My Links
-description: Websites, Socials, and Game IDs
-markdown: kramdown
-kramdown:
-  input: GFM
